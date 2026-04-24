@@ -1,26 +1,38 @@
 # Muhammad Firzak Rizki
+
 ### Mobile Developer (Flutter)
 
-Crafting high-performance, scalable, and elegant mobile applications using **Flutter** and **Dart**.
+Crafting high-performance, scalable, and elegant mobile applications using **Flutter** and **Dart** — with a strong focus on clean architecture and product-driven development.
 
 ---
 
 ## 🌐 Portfolio
+
 **Live Preview:** https://muhammadfirzakrizki.github.io
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 FocusFlow
-A powerful productivity and workflow management application designed to maximize efficiency, clarity, and focus.
+### 💸 SpendWise
 
-🔗 https://github.com/muhammadfirzakrizki/focusflow
+A modern personal finance tracker to manage expenses, control budgets, and gain real-time financial insights. Built with a clean architecture approach and intuitive user experience.
+
+🔗 https://github.com/muhammadfirzakrizki/spendwise-app
+
+---
+
+### 🔹 FocusFlow
+
+A minimalist productivity and workflow management application designed to maximize focus, clarity, and daily efficiency.
+
+🔗 https://github.com/muhammadfirzakrizki/focusflow-app
 
 ---
 
 ### 🔹 ICT IPB Flutter Demo
-A practical demonstration of Flutter implementation tailored for ICT use cases and modern mobile solutions.
+
+A scalable mobile component integration system tailored for university ICT ecosystems, focusing on modular UI and maintainable architecture.
 
 🔗 https://github.com/muhammadfirzakrizki/ict-ipb-flutter-demo
 
@@ -28,26 +40,37 @@ A practical demonstration of Flutter implementation tailored for ICT use cases a
 
 ## 🛠 Tech Stack
 
-**Framework**  
+**Framework**
 Flutter
 
-**Language**  
+**Language**
 Dart
 
-**Tools & Environment**  
+**Architecture & Tools**
+BLoC • Clean Architecture • Firebase • Freezed • GetIt
+
+**Environment**
 Git • VS Code • Linux
 
 ---
 
 ## 💡 Professional Focus
 
-- Building clean, maintainable, and scalable mobile architectures
-- Delivering smooth, responsive, and production-ready applications
-- Applying modern development practices and performance optimization
+* Designing **scalable and maintainable architectures**
+* Building **real-world, product-focused mobile applications**
+* Delivering **smooth, responsive, and production-ready UI/UX**
+* Applying **modern development practices and performance optimization**
 
 ---
 
 ## 📍 Location
+
 Bogor, Indonesia
+
+---
+
+## 🤝 Let's Collaborate
+
+Open for collaboration on mobile applications, Flutter architecture, and product-focused development.
 
 ---
